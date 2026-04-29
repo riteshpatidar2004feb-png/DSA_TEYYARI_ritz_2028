@@ -11,6 +11,7 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
+        //yeh gfg ka solution hai mera isme ghanta bhi nhi hai
         ListNode slow=head,fast=head,temp=head;
         while(fast!=null&&fast.next!=null){
             slow=slow.next;
