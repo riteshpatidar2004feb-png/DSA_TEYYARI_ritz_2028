@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
