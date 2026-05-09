@@ -11,7 +11,6 @@
 class Solution {
     public void reorderList(ListNode head) {
         if(head.next==null) return ;
-       // if(head.nex)
         ListNode slow = head, fast = head;
         while (fast.next != null &&fast.next.next != null){
             slow = slow.next;
@@ -27,7 +26,7 @@ class Solution {
             c = c.next;
             a.next = b;
         }
-        //slow.next = a; 
+        //slow.next = a;  beacuse of this line i wasted my 2 hours, becuase it creates cycle
 
         ListNode temp=head, a1=a;
         while(temp!=null&&a1!=null){
