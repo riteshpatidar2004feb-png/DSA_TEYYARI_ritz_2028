@@ -15,13 +15,13 @@ class Solution {
         st.push(head.val);
         while(temp != null){
             int x = temp.val;
-            if(x < st.peek()) st.push(x);
-            else{
+            // if(x < st.peek()) st.push(x);
+            // else{
                 while(st.size()>0 && x > st.peek()) {
                     st.pop();
                 }
                 st.push(x);
-            }
+            // }
             temp = temp.next;
         }
 
