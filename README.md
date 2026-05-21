@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3903-smallest-stable-index-i](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
