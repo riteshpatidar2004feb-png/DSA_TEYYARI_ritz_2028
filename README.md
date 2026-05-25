@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
