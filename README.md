@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
