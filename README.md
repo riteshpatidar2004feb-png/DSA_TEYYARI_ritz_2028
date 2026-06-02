@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3903-smallest-stable-index-i](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
