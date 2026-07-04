@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
 | [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
