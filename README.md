@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
 | [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Sliding Window
 |  |
