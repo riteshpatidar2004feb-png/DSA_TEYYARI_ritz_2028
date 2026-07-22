@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0371-sum-of-two-integers) |
