@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0739-daily-temperatures) |
+| [0861-score-after-flipping-matrix](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0861-score-after-flipping-matrix](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1833-maximum-ice-cream-bars) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0371-sum-of-two-integers) |
+| [0861-score-after-flipping-matrix](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1486-xor-operation-in-an-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Radix Sort
