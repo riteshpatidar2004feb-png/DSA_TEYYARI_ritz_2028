@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
 | [1006-clumsy-factorial](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1006-clumsy-factorial) |
 | [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Union-Find
 |  |
 | ------- |
