@@ -45,7 +45,7 @@ class Solution {
 
 //           total = (o_place * h_place * t_place) / duplicate;
 //         }
-for(int h = 1; h <= 9; h++){
+for(int h = 1; h <= 9; h++){ // it starts from 1 becuase we want number with no leading zero
         if(freq[h] == 0) continue;
 
         freq[h]--;
@@ -63,7 +63,6 @@ for(int h = 1; h <= 9; h++){
 
             freq[t]++;
         }
-
         freq[h]++;
     }
         return total;
