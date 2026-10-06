@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3903-smallest-stable-index-i](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1929-concatenation-of-array) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
