@@ -17,6 +17,7 @@ class Solution {
             head.next = null;
             return temp;
         }
+        //yeh dummy node ka concept click nhi kiya mujhe baaki pura code mene hi likha hai
         ListNode head1 = new ListNode(-1);
         head1.next=head;
         head=head1;
