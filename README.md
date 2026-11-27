@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3360-stone-removal-game) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
